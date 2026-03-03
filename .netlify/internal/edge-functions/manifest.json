@@ -1,0 +1,1 @@
+{"bundles":[{"asset":"ddb71d918d4e549f1f1d64a13349be5a4d6dd60c7d30bace14cfaa81c081478f.eszip","format":"eszip2"}],"routes":[{"function":"supabase-proxy","pattern":"^/supabase-proxy(?:/(.*))/?$","excluded_patterns":[],"path":"/supabase-proxy/*"}],"post_cache_routes":[],"bundler_version":"14.9.11","layers":[],"import_map":"netlify:import-map","function_config":{}}
